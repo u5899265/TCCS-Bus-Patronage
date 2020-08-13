@@ -34,7 +34,7 @@ Business Intelligence Specialist
 ## Professional skills and personal qualities
 Good written and oral communication to understand and capture business problem, report writing and presenting outputs of project to target audience. High level of motivation and ability to set and achieve work priorities, including well-developed coordination, problem-solving and analytical skills.  
 
-## What supervisory and technical support can you provide to your intern, given they will be working from home? 
+## What supervisory and technical support can be provided to intern, given they will be working from home? 
 Interns will be provided with ACT Government laptops with data SIM cards to allow connection to the ACT Gov Network plus any required software or tools for conducting works, reporting, and tele-conferencing.  
 Regular teleconferenced meetings will be scheduled for supervisor/administrative tasks, technical support, peer review and stakeholder engagements.
 
