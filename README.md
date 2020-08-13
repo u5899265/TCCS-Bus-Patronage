@@ -5,7 +5,7 @@ Semester 1 2020 had the intern utilise Light Rail patronage data to help the cli
 In this project, we wish to perform the same analysis of our Bus Patronage to understand the following;  
 **a)	What is our travel pattern by analysing details of passenger groups, mode shifts?   
 b)	Optional - What is the effect of seasonality?  
-c)	Optional - How to detect anomalies in patronage?  **  
+c)	Optional - How to detect anomalies in patronage?**  
 
 ## Stakeholders
 **Supervisor:** 		Nathan Urban, Director Innovation Data & Analytics  
@@ -17,7 +17,7 @@ Helping the business unit solve complex policy problems by analysing vast amount
 
 ## Tangible Deliverables
 •	**Dashboard   
-•	Case study  **  
+•	Case study**  
 
 ## Requirements
 Interns need to have good skills in Python programming, data analysis and experience in the development of dashboards using Business Intelligence tools such as (Tableau, Qlik, Power BI and so on).  
@@ -27,7 +27,7 @@ Business Intelligence Specialist
 
 ## Technical Knowledge and skill
  • **Data Science  
- • Other - PowerBI  **  
+ • Other - PowerBI**  
 
 ## Professional skills and personal qualities
 Good written and oral communication to understand and capture business problem, report writing and presenting outputs of project to target audience. High level of motivation and ability to set and achieve work priorities, including well-developed coordination, problem-solving and analytical skills.  
