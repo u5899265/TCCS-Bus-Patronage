@@ -1,6 +1,8 @@
 # TCCS-Bus-Patronage
 
 ## Project Overview
+**Transport Canberra and City Services (TCCS)**, is a government unit, who delivers a wide range of public services and manages the public transport network in Canberra. It has released an Open Data Strategy 2019-2021 based on the Proactive Release of Data (Open Data) Policy 2015. This strategy encourages organisations and governments to make data publicly available, and aims to advance the use of open data to improve service delivery and encourage innovation.   
+This project will work for the Transport Canberra and Business Service team, using Bus and Light Rail Patronage data from the Open Data Portal to perform data visualisation and analysation.   
 Semester 1 2020 had the intern utilise Light Rail patronage data to help the client make some operational decisions on Light Rail services and monitor the service delivery performance. 
 In this project, we wish to perform the same analysis of our Bus Patronage to understand the following;  
 **a)	What is our travel pattern by analysing details of passenger groups, mode shifts?   
